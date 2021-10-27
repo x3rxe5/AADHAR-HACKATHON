@@ -5,8 +5,8 @@ Table of contents
 
 <!--ts-->
    * [Installation](#installation)
-      * [standard way][#standardway]  
-      * [using docker][#docker]   
+      * [standard way][#standard way]  
+      * [using docker][#using docker]   
 <!--te-->
 
 
@@ -35,6 +35,8 @@ using docker
 ```bash
 
 > :warning: **Check the sudo privledge before running docker command**:
+>[!WARNING]
+>Check the sudo priviledge before running docker command
 
 # build docker file 
 docker-compose build
