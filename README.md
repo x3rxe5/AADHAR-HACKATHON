@@ -4,9 +4,9 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Installation](#installation)
-      * [standard way][#standard way]  
-      * [using docker][#using docker]   
+    * [Installation](#installation)
+        * [standard way][#standardway]  
+        * [using docker][#usingdocker]   
 <!--te-->
 
 
@@ -32,11 +32,11 @@ uvicorn src.main:app --reload
 using docker
 ------------
 
-```bash
-
 > :warning: **Check the sudo privledge before running docker command**:
 >[!WARNING]
 >Check the sudo priviledge before running docker command
+```bash
+
 
 # build docker file 
 docker-compose build
