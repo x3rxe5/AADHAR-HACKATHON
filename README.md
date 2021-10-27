@@ -3,10 +3,11 @@
 Table of contents
 =================
 
-<!--ts-->
-    * [Installation](#installation)
-        * [standard way][#standardway]  
-        * [using docker][#usingdocker]   
+
+<!--ts-->  
+   * [Installation](#installation)
+      * [standard way](#standardway)
+      * [using docker](#using-docker)
 <!--te-->
 
 
@@ -33,8 +34,7 @@ using docker
 ------------
 
 > :warning: **Check the sudo privledge before running docker command**:
->[!WARNING]
->Check the sudo priviledge before running docker command
+
 ```bash
 
 
