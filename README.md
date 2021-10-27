@@ -33,7 +33,7 @@ uvicorn src.main:app --reload
 using docker
 ------------
 
-> :warning: **Check the sudo privledge before running docker command**:
+> :warning: **Check the sudo privilege before running docker command**:
 
 ```bash
 
