@@ -1,6 +1,6 @@
 # -------------------------
 # 
-#   TEAM NAME   : GangsOfCMPICA
+#   TEAM NAME   : GangOfCMPICA
 #   TITLE       : ADDRESS FORMATING ISSUE
 #   DESCRIPTION : Aadhar hackathon problem statement number 4
 #                       

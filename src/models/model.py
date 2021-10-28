@@ -1,6 +1,6 @@
 from sqlalchemy import Integer,String,BigInteger
 from sqlalchemy.sql.schema import Column
-from db.database import Base
+from src.db.database import Base
 
 # CREATING AN AADHAR RESIDENT ADDRESS INFORMATION
 

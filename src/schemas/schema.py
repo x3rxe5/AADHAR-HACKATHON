@@ -11,3 +11,5 @@ class CreateAddress(BaseModel):
     district:str
     state:str
     
+    # def __str__(self) -> str:
+    #     return super().__str__(self)
