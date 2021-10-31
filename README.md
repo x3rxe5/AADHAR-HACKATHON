@@ -103,3 +103,5 @@ Snap Shots
 
 Example Video
 =============
+
+[![Recorded Video](./images/development.png?raw=true)](./images/recording.mp4)
