@@ -104,4 +104,4 @@ Snap Shots
 Example Video
 =============
 
-[![Recorded Video](./images/development.png?raw=true)](./images/recording.mp4)
+[![Recorded Video](./images/development.png?raw=true)](https://youtu.be/JLYSvrWQZbQ)
