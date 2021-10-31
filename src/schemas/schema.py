@@ -5,7 +5,7 @@ class CreateAddress(BaseModel):
     street:str
     area:str
     landmark:str
-    village:str
+    city:str
     pincode:int
     sub_district:str
     district:str
